@@ -162,7 +162,7 @@ GameObject:
   - component: {fileID: 357811555}
   - component: {fileID: 357811556}
   m_Layer: 0
-  m_Name: C1
+  m_Name: Column_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -495,6 +495,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2021908449}
     m_Modifications:
+    - target: {fileID: 556061499142158629, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: IMG_Icon
+      objectReference: {fileID: 0}
     - target: {fileID: 2121541315265989266, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -603,6 +607,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -0.00006866455
       objectReference: {fileID: 0}
+    - target: {fileID: 4663000889273990638, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: TXT_Name
+      objectReference: {fileID: 0}
     - target: {fileID: 8434190953908082403, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -613,7 +621,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8785297338843314700, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Name
-      value: Menu_Trainer_Button
+      value: BTN_Trainer
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -667,7 +675,7 @@ GameObject:
   - component: {fileID: 1106322822}
   - component: {fileID: 1106322821}
   m_Layer: 0
-  m_Name: Head
+  m_Name: UI_Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -738,6 +746,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2021908449}
     m_Modifications:
+    - target: {fileID: 556061499142158629, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: IMG_Icon
+      objectReference: {fileID: 0}
     - target: {fileID: 2121541315265989266, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -842,13 +854,17 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 16.399994
       objectReference: {fileID: 0}
+    - target: {fileID: 4663000889273990638, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: TXT_Name
+      objectReference: {fileID: 0}
     - target: {fileID: 8434190953908082403, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 2968484921941268840, guid: 769e8f0c02667be498079d7f85063a8b, type: 3}
     - target: {fileID: 8785297338843314700, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Name
-      value: Menu_Pokedex_Button
+      value: BTN_Pokedex
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -869,7 +885,7 @@ GameObject:
   - component: {fileID: 1136446564}
   - component: {fileID: 1136446565}
   m_Layer: 0
-  m_Name: Buttons
+  m_Name: UI_Buttons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -930,6 +946,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2021908449}
     m_Modifications:
+    - target: {fileID: 556061499142158629, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: IMG_Icon
+      objectReference: {fileID: 0}
     - target: {fileID: 2121541315265989266, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1018,6 +1038,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 112
       objectReference: {fileID: 0}
+    - target: {fileID: 4663000889273990638, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: TXT_Name
+      objectReference: {fileID: 0}
     - target: {fileID: 8434190953908082403, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1028,7 +1052,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8785297338843314700, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Name
-      value: Menu_Options_Button
+      value: BTN_Options
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1046,6 +1070,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 357811555}
     m_Modifications:
+    - target: {fileID: 556061499142158629, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: IMG_Icon
+      objectReference: {fileID: 0}
     - target: {fileID: 2121541315265989266, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1162,6 +1190,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -0.00006866455
       objectReference: {fileID: 0}
+    - target: {fileID: 4663000889273990638, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: TXT_Name
+      objectReference: {fileID: 0}
     - target: {fileID: 8434190953908082403, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1172,7 +1204,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8785297338843314700, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Name
-      value: Menu_Bag_Button
+      value: BTN_Bag
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1269,6 +1301,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 357811555}
     m_Modifications:
+    - target: {fileID: 556061499142158629, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: IMG_Icon
+      objectReference: {fileID: 0}
     - target: {fileID: 2121541315265989266, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1353,6 +1389,10 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 96
       objectReference: {fileID: 0}
+    - target: {fileID: 4663000889273990638, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: TXT_Name
+      objectReference: {fileID: 0}
     - target: {fileID: 8434190953908082403, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -1367,7 +1407,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8785297338843314700, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Name
-      value: Menu_Battle_Button
+      value: BTN_Battle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1420,7 +1460,7 @@ GameObject:
   - component: {fileID: 1681213949}
   - component: {fileID: 1681213951}
   m_Layer: 0
-  m_Name: BG_System
+  m_Name: BGSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1531,7 +1571,7 @@ GameObject:
   - component: {fileID: 1860017434}
   - component: {fileID: 1860017433}
   m_Layer: 0
-  m_Name: Foot
+  m_Name: UI_Foot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1602,6 +1642,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 357811555}
     m_Modifications:
+    - target: {fileID: 556061499142158629, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: IMG_Icon
+      objectReference: {fileID: 0}
     - target: {fileID: 2121541315265989266, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1706,9 +1750,13 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 16.399963
       objectReference: {fileID: 0}
+    - target: {fileID: 4663000889273990638, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
+      propertyPath: m_Name
+      value: TXT_Name
+      objectReference: {fileID: 0}
     - target: {fileID: 8785297338843314700, guid: cc11cbab09a837f4e8bc213174362608, type: 3}
       propertyPath: m_Name
-      value: Menu_Poke_Button
+      value: BTN_Pokemon
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
