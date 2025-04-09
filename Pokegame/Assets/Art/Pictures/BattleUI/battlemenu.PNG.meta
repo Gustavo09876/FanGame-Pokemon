@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: d28ccaa1c38d72d428813919548b7895
+guid: 61f1d4ab1182a7b48ab7ea86b0df1088
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5671466100503044758
-    second: newPartyBalls_0
-  - first:
-      213: 5909027526304542138
-    second: newPartyBalls_1
-  - first:
-      213: 4476145988553386276
-    second: newPartyBalls_2
-  - first:
-      213: 6481900528362614160
-    second: newPartyBalls_3
+      213: -3291918256757125497
+    second: battlemenu_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -148,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: newPartyBalls_0
+      name: battlemenu_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
-        height: 15
+        width: 512
+        height: 384
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,74 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6d98db51a7ea41b0800000000000000
-      internalID: -5671466100503044758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: newPartyBalls_1
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 0
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abd23615a35110250800000000000000
-      internalID: 5909027526304542138
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: newPartyBalls_2
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 0
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 429a38a9f077e1e30800000000000000
-      internalID: 4476145988553386276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: newPartyBalls_3
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 3
-        width: 9
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09d687e103654f950800000000000000
-      internalID: 6481900528362614160
+      spriteID: 78e4e5c69c1c052d0800000000000000
+      internalID: -3291918256757125497
       vertices: []
       indices: 
       edges: []
@@ -248,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      battlemenu_0: -3291918256757125497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
