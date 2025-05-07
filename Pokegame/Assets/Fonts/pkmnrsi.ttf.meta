@@ -3,7 +3,7 @@ guid: b4814429a7b1b004388e15067c3c1d00
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 16
+  fontSize: 1
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
@@ -11,9 +11,9 @@ TrueTypeFontImporter:
   fontNames:
   - Power Red and Blue Intl
   fallbackFontReferences: []
-  customCharacters: 
+  customCharacters: ABCDEFGHIJKLMNOPQRSTUVWXZabcdefghijklmnopqrstuvwxyz
   fontRenderingMode: 2
-  ascentCalculationMode: 0
+  ascentCalculationMode: 2
   useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
   userData: 

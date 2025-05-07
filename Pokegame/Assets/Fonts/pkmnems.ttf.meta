@@ -3,7 +3,7 @@ guid: 58ac387c7765ba647a07c6ea622d3ef8
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 16
+  fontSize: 1
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
@@ -11,9 +11,9 @@ TrueTypeFontImporter:
   fontNames:
   - Power Green Small
   fallbackFontReferences: []
-  customCharacters: 
+  customCharacters: ABCDEFGHIJKLMNOPQRSTUVWXZabcdefghijklmnopqrstuvwxyz
   fontRenderingMode: 2
-  ascentCalculationMode: 0
+  ascentCalculationMode: 2
   useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
   userData: 

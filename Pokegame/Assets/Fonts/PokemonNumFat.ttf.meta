@@ -3,7 +3,7 @@ guid: 9b2232de0329c8d46a27cc2a98087675
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
-  fontSize: 16
+  fontSize: 12
   forceTextureCase: -2
   characterSpacing: 0
   characterPadding: 1
@@ -11,9 +11,9 @@ TrueTypeFontImporter:
   fontNames:
   - PokemonNumFat
   fallbackFontReferences: []
-  customCharacters: 
+  customCharacters: ABCDEFGHIJKLMNOPQRSTUVWXZabcdefghijklmnopqrstuvwxyz
   fontRenderingMode: 2
-  ascentCalculationMode: 0
+  ascentCalculationMode: 2
   useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
   userData: 
