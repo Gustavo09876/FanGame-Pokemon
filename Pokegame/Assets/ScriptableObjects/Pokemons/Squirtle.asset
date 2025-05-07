@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b679b0741db191843bd1ebda8ffb4fe8, type: 3}
+  m_Name: Squirtle
+  m_EditorClassIdentifier: 
+  name: Squirtle
+  pokemonType1: 11
+  pokemonType2: 0
+  animationF: {fileID: 7400000, guid: 64d8eaff0bd63b542badc9432439f75b, type: 2}
+  animationB: {fileID: 7400000, guid: 5065065c058fcd2448297bb8d3530add, type: 2}
+  maxHp: 44
+  attack: 48
+  defense: 65
+  spAtk: 50
+  spDef: 64
+  speed: 43

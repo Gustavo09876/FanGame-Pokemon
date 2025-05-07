@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b679b0741db191843bd1ebda8ffb4fe8, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  name: Charmander
+  pokemonType1: 10
+  pokemonType2: 9
+  animationF: {fileID: 7400000, guid: 9528b0f79674ce04e933cd67d26a9e17, type: 2}
+  animationB: {fileID: 7400000, guid: b4844d5beec75a44b95ff0a6e221815a, type: 2}
+  maxHp: 39
+  attack: 52
+  defense: 43
+  spAtk: 60
+  spDef: 50
+  speed: 65
